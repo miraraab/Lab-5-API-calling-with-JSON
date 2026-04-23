@@ -1,0 +1,11 @@
+{
+    "name": "Premium Kaffeemaschine",
+    "price": 129.99,
+    "category": "home",
+    "description": "Vollautomatische Espressomaschine f\u00fcr zuhause",
+    "target_audience": "Kaffeeliebhaber",
+    "additional_info": {
+        "watt": 1500,
+        "tank_liter": 1.8
+    }
+}
